@@ -3,7 +3,7 @@ Pet match is a web application where you can not only know the basic information
 but also add a missing pet dog to the database. Pet-match runs on localhost and makes use of **RESTFUL API**
 
 ## Getting started
-These instructions will help you in starting the project once you have cloned it to your PC.
+These instructions will help you in starting the project once you have cloned it to your PC
 
 ### Prerequisites
 * In order to start the project and add details into the database, you need to have mongodb present in your PC.
